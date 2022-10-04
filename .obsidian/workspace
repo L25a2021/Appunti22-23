@@ -7,8 +7,12 @@
         "id": "b034d3d3eb463e63",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "prova.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "prova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "prova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "prova.md"
+              }
             }
           },
           {
@@ -130,6 +138,6 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "13352ea01b46a386",
+  "active": "b034d3d3eb463e63",
   "lastOpenFiles": []
 }
